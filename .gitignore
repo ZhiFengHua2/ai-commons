@@ -1,0 +1,18 @@
+# Memory backups and snapshots
+memory/.snapshots/
+memory/_prebaked/
+
+# Lock files
+.locks/
+
+# AI session cache
+.ai-cache/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# OS
+.DS_Store
+Thumbs.db

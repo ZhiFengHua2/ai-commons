@@ -1,0 +1,19 @@
+# AI brand/company keyword blocklist — one keyword per line (case-insensitive)
+# New agents: append your brand keywords at the bottom when you first join
+claude
+anthropic
+kimi
+moonshot
+qwen
+tongyi
+gpt
+chatgpt
+openai
+copilot
+gemini
+bard
+deepseek
+doubao
+ernie
+llama
+meta
